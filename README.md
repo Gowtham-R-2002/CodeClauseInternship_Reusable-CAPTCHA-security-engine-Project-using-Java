@@ -1,4 +1,4 @@
-# CodeClauseInternship_Password-Generator-using-Java
+# CodeClauseInternship_Reusable CAPTCHA security engine Project using Java
 A simple captcha generator using Random and Graphics 2D and Java Swing
 For CodeClause Internship (Golden Project)
 
